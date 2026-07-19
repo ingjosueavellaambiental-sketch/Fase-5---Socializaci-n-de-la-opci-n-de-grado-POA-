@@ -1,4 +1,4 @@
-# 🏟️ Club de Patinaje Espartanos – Duitama
+# Fase-5_Socializacion-de-la-opcion-de-grado-POA
 
 ## 📎 Presentación y Anexos del Trabajo de Grado ERSA
 
@@ -10,16 +10,11 @@
 
 ## 📦 Descarga masiva
 
-¿Quieres descargar todos los archivos de una sola vez?  
-Haz clic en el botón de abajo y obtendrás un archivo ZIP con todo el contenido del repositorio.
-
-[![Descargar todo en ZIP](https://img.shields.io/badge/📦-Descargar%20todos%20los%20archivos%20(ZIP)-blue?style=for-the-badge&logo=github)](https://github.com/tu-usuario/tu-repositorio/archive/main.zip)
+[![Descargar todo en ZIP](https://img.shields.io/badge/📦-Descargar%20todos%20los%20archivos%20(ZIP)-blue?style=for-the-badge&logo=github)](https://github.com/TU-USUARIO/Fase-5_Socializacion-de-la-opcion-de-grado-POA/archive/main.zip)
 
 ---
 
 ## 📂 Menú de navegación
-
-Haz clic en cualquier sección para acceder directamente a los archivos:
 
 | 📐 Planos y Diseños | 📄 Documentos y Anexos | 🖼️ Imágenes y Renders |
 | :---: | :---: | :---: |
@@ -109,7 +104,7 @@ Haz clic en cualquier sección para acceder directamente a los archivos:
 
 1. **Haz clic en cualquier enlace** de la tabla para descargar o visualizar el archivo directamente.
 2. **Las imágenes** se abren en una nueva pestaña del navegador.
-3. **Los PDFs** se descargan automáticamente o se abren en el visor del navegador (dependiendo de tu configuración).
+3. **Los PDFs** se descargan automáticamente o se abren en el visor del navegador.
 4. **Para descargar todo el repositorio** en un solo archivo ZIP, usa el botón de la sección "📦 Descarga masiva" al inicio del README.
 
 ---
