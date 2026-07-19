@@ -13,9 +13,7 @@
 ¿Quieres descargar todos los archivos de una sola vez?  
 Haz clic en el botón de abajo y obtendrás un archivo ZIP con todo el contenido del repositorio.
 
-[![Descargar todo en ZIP](https://img.shields.io/badge/📦-Descargar%20todos%20los%20archivos%20(ZIP)-blue?style=for-the-badge&logo=github)](https://github.com/tu-usuario/presentacion-club-espartanos/archive/main.zip)
-
-> **Nota:** Reemplaza `tu-usuario` y `presentacion-club-espartanos` con tu usuario y nombre de repositorio reales.
+[![Descargar todo en ZIP](https://img.shields.io/badge/📦-Descargar%20todos%20los%20archivos%20(ZIP)-blue?style=for-the-badge&logo=github)](https://github.com/tu-usuario/tu-repositorio/archive/main.zip)
 
 ---
 
@@ -33,8 +31,9 @@ Haz clic en cualquier sección para acceder directamente a los archivos:
 
 | Archivo | Descripción | Enlace |
 | :--- | :--- | :--- |
-| `plano-arquitectonico.pdf` | Plano arquitectónico del patinódromo | [📥 Descargar](assets/planos/plano-arquitectonico.pdf) |
-| `plano-estructural.pdf` | Plano estructural (NSR-10) | [📥 Descargar](assets/planos/plano-estructural.pdf) |
+| `Plano_Proyecciones_Espartanos.pdf` | Plano de proyecciones del patinódromo | [📥 Descargar](assets/planos/Plano_Proyecciones_Espartanos.pdf) |
+| `Plano_Proyecciones_Espartanos_RT.pdf` | Plano de proyecciones con RT | [📥 Descargar](assets/planos/Plano_Proyecciones_Espartanos_RT.pdf) |
+| `Plano_Proyecciones_Espartanos_RTA_compressed.pdf` | Plano de proyecciones RTA (comprimido) | [📥 Descargar](assets/planos/Plano_Proyecciones_Espartanos_RTA_compressed.pdf) |
 
 [⬆ Volver al menú](#)
 
@@ -45,29 +44,18 @@ Haz clic en cualquier sección para acceder directamente a los archivos:
 ### 📘 Trabajo de Grado Completo
 | Archivo | Descripción | Enlace |
 | :--- | :--- | :--- |
-| `Trabajo-de-grado-ERSA_JosueDAvellaC_Fase4.pdf` | Documento completo de la Fase 4 | [📥 Descargar](assets/documentos/Trabajo-de-grado-ERSA_JosueDAvellaC_Fase4.pdf) |
+| `Trabajo de grado ERSA_JosuéDAvellaC_Fase4.pdf` | Documento completo de la Fase 4 | [📥 Descargar](assets/documentos/Trabajo%20de%20grado%20ERSA_Josu%C3%A9DAvellaC_Fase4.pdf) |
 
-### 📋 Anexos (1 al 9)
-| # | Archivo | Descripción | Enlace |
-| :---: | :--- | :--- | :--- |
-| 1 | `anexo1-fotografias.pdf` | Registros fotográficos del estado actual | [📥 Descargar](assets/documentos/anexo1-fotografias.pdf) |
-| 2 | `anexo2-mapas.pdf` | Mapas topográficos y ambientales | [📥 Descargar](assets/documentos/anexo2-mapas.pdf) |
-| 3 | `anexo3-encuesta.pdf` | Encuesta, dashboard y código | [📥 Descargar](assets/documentos/anexo3-encuesta.pdf) |
-| 4 | `anexo4-proyeccion-inversion.pdf` | Proyección de inversión (2da fase) | [📥 Descargar](assets/documentos/anexo4-proyeccion-inversion.pdf) |
-| 5 | `anexo5-tabla-codigos.pdf` | Tabla de códigos ATLAS.ti | [📥 Descargar](assets/documentos/anexo5-tabla-codigos.pdf) |
-| 6 | `anexo6-matriz-coocurrencia.pdf` | Matriz de co-ocurrencia | [📥 Descargar](assets/documentos/anexo6-matriz-coocurrencia.pdf) |
-| 7 | `anexo7-comentarios.pdf` | Comentarios literales de encuestados | [📥 Descargar](assets/documentos/anexo7-comentarios.pdf) |
-| 8 | `anexo8-spider-map.pdf` | Spider map radial de hallazgos | [📥 Descargar](assets/documentos/anexo8-spider-map.pdf) |
-| 9 | `anexo9-matriz-mendelow.pdf` | Matriz de poder e interés | [📥 Descargar](assets/documentos/anexo9-matriz-mendelow.pdf) |
-
-### 📂 Otros documentos clave
+### 📊 Análisis de Datos y ATLAS.ti
 | Archivo | Descripción | Enlace |
 | :--- | :--- | :--- |
-| `manual-sig.pdf` | Manual del Sistema Integrado de Gestión | [📥 Descargar](assets/documentos/manual-sig.pdf) |
-| `programa-inclusion.pdf` | Programa de inclusión social y becas | [📥 Descargar](assets/documentos/programa-inclusion.pdf) |
-| `presupuesto-detallado.pdf` | Presupuesto detallado del proyecto | [📥 Descargar](assets/documentos/presupuesto-detallado.pdf) |
-| `memoria-ptar.pdf` | Memoria de cálculo de la PTAR | [📥 Descargar](assets/documentos/memoria-ptar.pdf) |
-| `referencias-completas.pdf` | Referencias bibliográficas completas | [📥 Descargar](assets/documentos/referencias-completas.pdf) |
+| `ATLAS.ti_CitasCodificadas.pdf` | Citas codificadas en ATLAS.ti | [📥 Descargar](assets/documentos/ATLAS.ti_CitasCodificadas.pdf) |
+| `ATLAS.ti_Estadístico.pdf` | Estadístico de ATLAS.ti | [📥 Descargar](assets/documentos/ATLAS.ti_Estad%C3%ADstico.pdf) |
+| `Analisis_cualitativo_Espartanos.pdf` | Análisis cualitativo del Club Espartanos | [📥 Descargar](assets/documentos/Analisis_cualitativo_Espartanos.pdf) |
+| `Aplicación_Datos_Cuantitativos.pdf` | Aplicación de datos cuantitativos | [📥 Descargar](assets/documentos/Aplicaci%C3%B3n_Datos_Cuantitativos.pdf) |
+| `Dashboard_Encuesta.pdf` | Dashboard interactivo de la encuesta | [📥 Descargar](assets/documentos/Dashboard_Encuesta.pdf) |
+| `MatrizMendelow.pdf` | Matriz de poder e interés (Mendelow) | [📥 Descargar](assets/documentos/MatrizMendelow.pdf) |
+| `graphviz.png` | Diagrama de Graphviz | [🖼️ Ver imagen](assets/documentos/graphviz.png) |
 
 [⬆ Volver al menú](#)
 
@@ -76,34 +64,42 @@ Haz clic en cualquier sección para acceder directamente a los archivos:
 ## 🖼️ Imágenes y Renders <a name="imagenes"></a>
 
 ### 🏗️ Renders arquitectónicos
-| Archivo | Descripción | Vista previa |
+| Archivo | Descripción | Enlace |
 | :--- | :--- | :--- |
-| `render-vista-aerea.png` | Vista isométrica 3D | [🖼️ Ver imagen](assets/imagenes/render-vista-aerea.png) |
-| `render-interior.png` | Interior multifuncional | [🖼️ Ver imagen](assets/imagenes/render-interior.png) |
-| `render-frontal.png` | Escenario deportivo - vista frontal | [🖼️ Ver imagen](assets/imagenes/render-frontal.png) |
-| `corte-transversal.png` | Corte transversal y volumetría | [🖼️ Ver imagen](assets/imagenes/corte-transversal.png) |
-| `centro-control.png` | Centro de control administrativo | [🖼️ Ver imagen](assets/imagenes/centro-control.png) |
-| `planta-arquitectonica.png` | Planta arquitectónica técnica | [🖼️ Ver imagen](assets/imagenes/planta-arquitectonica.png) |
+| `Vista Isométrica 3D del Patinódromo Espartanos(1).PNG` | Vista isométrica 3D | [🖼️ Ver imagen](assets/imagenes/Vista%20Isom%C3%A9trica%203D%20del%20Patin%C3%B3dromo%20Espartanos(1).PNG) |
+| `Interior Multifuncional - Sala de Entrenamiento y Servicios.PNG` | Interior multifuncional | [🖼️ Ver imagen](assets/imagenes/Interior%20Multifuncional%20-%20Sala%20de%20Entrenamiento%20y%20Servicios.PNG) |
+| `Interior Multifuncional - Sala de Entrenamiento y Servicios(1).PNG` | Interior multifuncional (vista 2) | [🖼️ Ver imagen](assets/imagenes/Interior%20Multifuncional%20-%20Sala%20de%20Entrenamiento%20y%20Servicios(1).PNG) |
+| `Corte Transversal - Estructura Interna Seccional.PNG` | Corte transversal y volumetría | [🖼️ Ver imagen](assets/imagenes/Corte%20Transversal%20-%20Estructura%20Interna%20Seccional.PNG) |
 
-### 🗺️ Mapas SIG
-| Archivo | Descripción | Vista previa |
+### 📊 Análisis y gráficos
+| Archivo | Descripción | Enlace |
 | :--- | :--- | :--- |
-| `mapa-topografico.png` | Mapa de relieve topográfico | [🖼️ Ver imagen](assets/imagenes/mapa-topografico.png) |
-| `mapa-ambiental.png` | Mapa ambiental con cobertura del suelo | [🖼️ Ver imagen](assets/imagenes/mapa-ambiental.png) |
-| `mapa-ubicacion-duitama.png` | Mapa de ubicación de Duitama | [🖼️ Ver imagen](assets/imagenes/mapa-ubicacion-duitama.png) |
+| `Captura de pantalla 2025-11-18 100446.png` | Captura de análisis de datos | [🖼️ Ver imagen](assets/imagenes/Captura%20de%20pantalla%202025-11-18%20100446.png) |
+| `Captura de pantalla 2025-11-18 100618.png` | Captura de análisis de datos | [🖼️ Ver imagen](assets/imagenes/Captura%20de%20pantalla%202025-11-18%20100618.png) |
+| `Desarrollo_ATLAS.ti.png` | Desarrollo del análisis con ATLAS.ti | [🖼️ Ver imagen](assets/imagenes/Desarrollo_ATLAS.ti.png) |
+| `Distribución_Códigos_ATLAS.ti.png` | Distribución de códigos en ATLAS.ti | [🖼️ Ver imagen](assets/imagenes/Distribuci%C3%B3n_C%C3%B3digos_ATLAS.ti.png) |
 
-### 📊 Gráficos y diagramas
-| Archivo | Descripción | Vista previa |
+### 📸 Fotos del estado actual (Anexo 1)
+| Archivo | Descripción | Enlace |
 | :--- | :--- | :--- |
-| `graficos-economia.png` | Gráficos de economía y estructura empresarial | [🖼️ Ver imagen](assets/imagenes/graficos-economia.png) |
-| `dashboard-encuesta.png` | Dashboard interactivo de la encuesta | [🖼️ Ver imagen](assets/imagenes/dashboard-encuesta.png) |
-| `spider-hallazgos.png` | Spider map radial de hallazgos | [🖼️ Ver imagen](assets/imagenes/spider-hallazgos.png) |
-| `matriz-mendelow.png` | Matriz de poder e interés (Mendelow) | [🖼️ Ver imagen](assets/imagenes/matriz-mendelow.png) |
-
-### 📸 Fotos del estado actual
-| Carpeta | Descripción |
-| :--- | :--- |
-| `fotos-estado-actual/` | 19+ fotografías del estado actual del patinódromo, piscina, graderías, etc. | [📂 Ver carpeta](assets/imagenes/fotos-estado-actual/) |
+| `WhatsApp Image 2026-06-03 at 2.59.14 PM.jpeg` | Foto estado actual | [🖼️ Ver imagen](assets/imagenes/WhatsApp%20Image%202026-06-03%20at%202.59.14%20PM.jpeg) |
+| `WhatsApp Image 2026-06-03 at 2.59.15 PM (1).jpeg` | Foto estado actual | [🖼️ Ver imagen](assets/imagenes/WhatsApp%20Image%202026-06-03%20at%202.59.15%20PM%20(1).jpeg) |
+| `WhatsApp Image 2026-06-03 at 2.59.15 PM (2).jpeg` | Foto estado actual | [🖼️ Ver imagen](assets/imagenes/WhatsApp%20Image%202026-06-03%20at%202.59.15%20PM%20(2).jpeg) |
+| `WhatsApp Image 2026-06-03 at 2.59.15 PM.jpeg` | Foto estado actual | [🖼️ Ver imagen](assets/imagenes/WhatsApp%20Image%202026-06-03%20at%202.59.15%20PM.jpeg) |
+| `WhatsApp Image 2026-06-03 at 2.59.16 PM (1).jpeg` | Foto estado actual | [🖼️ Ver imagen](assets/imagenes/WhatsApp%20Image%202026-06-03%20at%202.59.16%20PM%20(1).jpeg) |
+| `WhatsApp Image 2026-06-03 at 2.59.16 PM.jpeg` | Foto estado actual | [🖼️ Ver imagen](assets/imagenes/WhatsApp%20Image%202026-06-03%20at%202.59.16%20PM.jpeg) |
+| `WhatsApp Image 2026-06-03 at 2.59.17 PM (1).jpeg` | Foto estado actual | [🖼️ Ver imagen](assets/imagenes/WhatsApp%20Image%202026-06-03%20at%202.59.17%20PM%20(1).jpeg) |
+| `WhatsApp Image 2026-06-03 at 2.59.17 PM.jpeg` | Foto estado actual | [🖼️ Ver imagen](assets/imagenes/WhatsApp%20Image%202026-06-03%20at%202.59.17%20PM.jpeg) |
+| `WhatsApp Image 2026-06-03 at 2.59.21 PM.jpeg` | Foto estado actual | [🖼️ Ver imagen](assets/imagenes/WhatsApp%20Image%202026-06-03%20at%202.59.21%20PM.jpeg) |
+| `WhatsApp Image 2026-06-03 at 2.59.22 PM (1).jpeg` | Foto estado actual | [🖼️ Ver imagen](assets/imagenes/WhatsApp%20Image%202026-06-03%20at%202.59.22%20PM%20(1).jpeg) |
+| `WhatsApp Image 2026-06-03 at 2.59.22 PM (2).jpeg` | Foto estado actual | [🖼️ Ver imagen](assets/imagenes/WhatsApp%20Image%202026-06-03%20at%202.59.22%20PM%20(2).jpeg) |
+| `WhatsApp Image 2026-06-03 at 2.59.22 PM.jpeg` | Foto estado actual | [🖼️ Ver imagen](assets/imagenes/WhatsApp%20Image%202026-06-03%20at%202.59.22%20PM.jpeg) |
+| `WhatsApp Image 2026-06-03 at 2.59.23 PM (1).jpeg` | Foto estado actual | [🖼️ Ver imagen](assets/imagenes/WhatsApp%20Image%202026-06-03%20at%202.59.23%20PM%20(1).jpeg) |
+| `WhatsApp Image 2026-06-03 at 2.59.23 PM (2).jpeg` | Foto estado actual | [🖼️ Ver imagen](assets/imagenes/WhatsApp%20Image%202026-06-03%20at%202.59.23%20PM%20(2).jpeg) |
+| `WhatsApp Image 2026-06-03 at 2.59.23 PM (3).jpeg` | Foto estado actual | [🖼️ Ver imagen](assets/imagenes/WhatsApp%20Image%202026-06-03%20at%202.59.23%20PM%20(3).jpeg) |
+| `WhatsApp Image 2026-06-03 at 2.59.23 PM.jpeg` | Foto estado actual | [🖼️ Ver imagen](assets/imagenes/WhatsApp%20Image%202026-06-03%20at%202.59.23%20PM.jpeg) |
+| `WhatsApp Image 2026-06-03 at 2.59.24 PM (1).jpeg` | Foto estado actual | [🖼️ Ver imagen](assets/imagenes/WhatsApp%20Image%202026-06-03%20at%202.59.24%20PM%20(1).jpeg) |
+| `WhatsApp Image 2026-06-03 at 2.59.24 PM.jpeg` | Foto estado actual | [🖼️ Ver imagen](assets/imagenes/WhatsApp%20Image%202026-06-03%20at%202.59.24%20PM.jpeg) |
 
 [⬆ Volver al menú](#)
 
@@ -114,14 +110,13 @@ Haz clic en cualquier sección para acceder directamente a los archivos:
 1. **Haz clic en cualquier enlace** de la tabla para descargar o visualizar el archivo directamente.
 2. **Las imágenes** se abren en una nueva pestaña del navegador.
 3. **Los PDFs** se descargan automáticamente o se abren en el visor del navegador (dependiendo de tu configuración).
-4. **Para ver una carpeta completa** (como `fotos-estado-actual/`), haz clic en el enlace "Ver carpeta".
-5. **Para descargar todo el repositorio** en un solo archivo ZIP, usa el botón de la sección "📦 Descarga masiva" al inicio del README.
+4. **Para descargar todo el repositorio** en un solo archivo ZIP, usa el botón de la sección "📦 Descarga masiva" al inicio del README.
 
 ---
 
 ## 📎 Enlace al trabajo completo
 
-📄 **[Descargar trabajo completo (PDF)](assets/documentos/Trabajo-de-grado-ERSA_JosueDAvellaC_Fase4.pdf)**
+📄 **[Descargar trabajo completo (PDF)](assets/documentos/Trabajo%20de%20grado%20ERSA_Josu%C3%A9DAvellaC_Fase4.pdf)**
 
 ---
 
